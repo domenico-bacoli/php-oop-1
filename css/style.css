@@ -1,0 +1,21 @@
+main .container{
+    color: rgb(78, 78, 78);
+}
+
+main .container ul{
+    background-color: rgba(235, 235, 235, 0.4);
+    padding: 20px 60px;
+    border-radius: 30px;
+    list-style-type: none;
+    margin-bottom: 20px;
+    
+}
+
+main .container ul li{
+    font-style: italic;
+    padding: 2px 0;
+}
+
+main .container strong {
+    padding-right: 10px;
+}
